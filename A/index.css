@@ -1,0 +1,10 @@
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    color: red;
+}

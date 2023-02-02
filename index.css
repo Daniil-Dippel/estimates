@@ -1,0 +1,8 @@
+.container{
+    max-width: 320px;
+    margin: 0 auto;
+    text-align: center;
+}
+.btn{
+    margin-bottom: 20px;
+}
